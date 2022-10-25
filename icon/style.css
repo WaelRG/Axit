@@ -6,10 +6,9 @@ body {
   font-family: "Oswald", sans-serif;
   font-family: "Roboto", sans-serif;
 }
-@media(max-width:768px)
-{
-  body{
-  margin:-10px;
+@media (max-width: 768px) {
+  body {
+    margin: -10px;
   }
 }
 ul {
